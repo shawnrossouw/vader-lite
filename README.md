@@ -1,8 +1,8 @@
 # vader-lite
-Parcel.js lite workflow with postcss plugged in
+a Lite workflow running on parcel.js and postcss for nesting. 
 
-#Requirements
+# Requirements
 
-## - Node
-## - npm
-## - yarn
+### - Node
+### - npm
+### - yarn
